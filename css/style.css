@@ -1,0 +1,113 @@
+/* universal text styling */
+.head-styling {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.content-styling {
+    font-family: montserrat;
+}
+
+/* navbar */
+.bg-navbar {
+    background-color: #104d0e;
+}
+
+.font-navbar {
+    font-family: montserrat;
+}
+
+.list-navbar .item-navbar:hover {
+    background-color: green;
+}
+
+/* jumbotron */
+.jumbotron {
+    padding-bottom: 30px;
+    background-image: url("../img/leaves.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.gambar-profile {
+    width: 150px;
+}
+
+.jumbotron-text {
+    color: white;
+}
+
+/* about section */
+.bg-about {
+    background-color: #297810;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* .about-text {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+
+/* experience section */
+.exp-section {
+    /* background-image: linear-gradient(#a8f0bb, #82f5a0); */
+    background-color: #e1edb5;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* .exp-text {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+
+.link-project {
+    text-decoration: none;
+    color: darkgreen;
+    font-weight: 600;
+}
+.link-project:active {
+    color: lightgreen;
+}
+
+.link-project:hover {
+    color: green;
+}
+
+/* Education section */
+.edu-background {
+    /* background-image: linear-gradient(#186301, #49a141); */
+    background-color: #297810;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* skills section */
+.skill-div {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* interest section */
+.interest-div {
+    background-color: #e1edb5;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* award section */
+.award-section {
+    background-color: #297810;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* sup {
+    color: red;
+} */
+
+.contact-section {
+    background-color: #e1edb5;
+}
+
+.footer-bg {
+    background-color: #353836;
+}
